@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test2</string>
+    <string name="StartButtonText">Start</string>
+    <string name="MortgageAmountHint">Mortgage Amount (Dollars)</string>
+    <string name="AmortizationPeriodHint">Amortization Period (Years)</string>
+    <string name="interestRateHint">Interest Rate (%)</string>
+    <string name="calculateButtonText">Calculate EMI\n</string>
+    <string name="MainPageTitle">EMI CALCULATOR</string>
+    <string name="EMICalculatorHeader">EMI Calculator</string>
+</resources>

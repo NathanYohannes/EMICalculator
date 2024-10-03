@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#7caae6</color>
+    <color name="socialMediaGrey">#ACBED8</color>
+    <color name="smoothBlue">#60b0e6</color>
+    <color name="socialMediaBlue">#4267B2</color>
+</resources>
